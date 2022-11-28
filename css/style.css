@@ -1,0 +1,13 @@
+html {
+    background-color: azure;
+}
+
+#colorBox {
+    border: 3px solid black;
+    width: 80%;
+    height: 50vh;
+    background-color: blue;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
